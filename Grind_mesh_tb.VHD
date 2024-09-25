@@ -1,8 +1,8 @@
 LIBRARY ieee; 
 USE ieee.std_logic_1164.ALL; 
-ENTITY TB IS 
-END TB; 
-ARCHITECTURE behavior OF TB IS 
+ENTITY Grind_mesh_tb IS 
+END Grind_mesh_tb; 
+ARCHITECTURE behavior OF Grind_mesh_tb IS 
    COMPONENT Grind_mesh 
    PORT( 
         A : IN  std_logic; 
