@@ -1,5 +1,5 @@
 # Grind-mesh
-grind mesh using VHDL
+grind mesh using VHDL programming language
 ----------------------------------------------------------------------
 --Technology Schematic 
 
